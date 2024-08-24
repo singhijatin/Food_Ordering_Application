@@ -1,7 +1,6 @@
 # Food_Ordering_Application
 
- Project Overview:
- Food_App is a state-of-the-art Online Food Delivery Application that bridges the gap between restaurants and food enthusiasts. This platform allows restaurant owners to effortlessly register their establishments while enabling customers to savor their favorite meals with unparalleled ease.
+Food_App is a state-of-the-art Online Food Delivery Application that bridges the gap between restaurants and food enthusiasts. This platform allows restaurant owners to effortlessly register their establishments while enabling customers to savor their favorite meals with unparalleled ease.
 
 # Key Features:
 
