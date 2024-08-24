@@ -19,8 +19,8 @@
 
 Food_App is built on a robust tech stack including:
 
-Spring Boot 3: Providing a powerful backend infrastructure to support the application's functionalities.
-React 18, MUI, Tailwind & Redux: Crafted with the latest front-end technologies for a visually engaging and intuitive user interface.
-MySQL: Employing a reliable database for seamless data management and retrieval.
-JWT & Spring Security: Ensuring top-tier security measures to protect user data and interactions.
-React Router DOM: Facilitating smooth navigation and a seamless browsing experience.
+##### - Spring Boot 3: Providing a powerful backend infrastructure to support the application's functionalities.
+##### - React 18, MUI, Tailwind & Redux: Crafted with the latest front-end technologies for a visually engaging and intuitive user interface.
+##### - MySQL: Employing a reliable database for seamless data management and retrieval.
+##### - JWT & Spring Security: Ensuring top-tier security measures to protect user data and interactions.
+##### - React Router DOM: Facilitating smooth navigation and a seamless browsing experience.
