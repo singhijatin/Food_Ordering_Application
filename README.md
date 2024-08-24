@@ -15,6 +15,14 @@
  
  Robust Security Measures: Implementing secure authentication, password reset via email, and email notifications for order updates, alongside the integration of the Stripe payment gateway.
 
+ ![My Image](images/register.png)
+
+![My Image](images/login.png)
+
+![My Image](images/restaurant_view.png)
+
+![My Image](images/restuarant_owner_panel.png)
+
 # Technologies Utilized:
 
 Food_App is built on a robust tech stack including:
