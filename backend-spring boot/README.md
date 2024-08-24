@@ -1,4 +1,4 @@
-# Zosh Food
+# Jatin Food Stall
 
 1. **User:**
     - ID (Auto-generated)
